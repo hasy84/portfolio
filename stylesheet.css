@@ -1,0 +1,153 @@
+body{
+  background-color:#f2ebea;
+}
+
+.topimage img{
+  width: 100%;
+  height: 400px;
+}
+
+.text {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 25%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  line-height: 50px;
+}
+
+.topimage-text {
+  font-size: 20px;
+}
+
+h1{text-align: center;}
+p{text-align: left;
+  margin:50px 150px 150px;
+  line-height:2em;
+}
+
+
+.square{
+  width:80%;
+  height:400px;
+  background:white;
+  margin:auto;
+  margin-bottom:50px;
+  position:relative;
+}
+.square img{
+  margin-top:20px;
+  margin-left:20px;
+  width:40%;
+}
+
+.square2{
+  width:42%;
+  height:650px;
+  background:white;
+  margin-left:11%;
+  margin-bottom:50px;
+  margin-right:0;
+  position:relative;
+}
+.square3{
+  width:43%;
+  height:650px;
+  background:white;
+  /* margin-left:53%; */
+  margin-bottom:50px;
+  position:relative;
+}
+.square2 img{
+  margin-top:90px;
+  margin-left:40px;
+  width:85%;
+}
+.square3 img{
+  margin-top:90px;
+  margin-left:40px;
+  width:82%;
+}
+.rankimage img{
+  width:7%;
+  position: absolute;
+  top:5%;
+  left:45%;
+}
+.rankimage2 img{
+  width:13%;
+  position: absolute;
+  top:0px;
+  left:2%;
+  margin-top:20px;
+}
+h3{
+  position:absolute;
+  top:5%;
+  left:58%;
+  font-size:25px;
+}
+.h3small{
+  position:absolute;
+  top:2%;
+  left:25%;
+  font-size:25px;
+}
+h4{
+  position:absolute;
+  top:30%;
+  left:45%;
+  right:30px;
+  font-size:15px;
+  line-height:2em;
+}
+.h4small{
+  position:absolute;
+  top:54%;
+  left:10%;
+  right:30px;
+  font-size:15px;
+  line-height:2em;
+}
+
+
+.small-square{
+  background-color:#f2ebea;
+  width:40%;
+  margin-left:20px;
+  border:solid 1.5px #d8c5d5;
+}
+.small-square2{
+  position:absolute;
+  background-color:#f2ebea;
+  width:85%;
+  margin-left:40px;
+  margin-top:42%;
+  border:solid 1.5px #d8c5d5;
+}
+h2{
+  font-size:15px;
+  text-align: center;
+}
+.price{
+  font-size:25px;
+ color:red;
+}
+
+.btn-orange{
+  background-color:#f9423a;
+  width:80%;
+  height:40px;
+  margin-left:45%;
+  border:solid 1.5px #d8c5d5;
+}
+
+.list{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 8.5em;
+  
+}
